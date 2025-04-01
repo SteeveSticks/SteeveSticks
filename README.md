@@ -2,9 +2,7 @@
 - 👀 I’m interested in colaborating with other developers
 - 🌱 I’m currently learning react, javascript
 - 💞️ I’m looking to collaborate on projects with new developers 
-- 📫 How to reach me discordapp.com/users/1250349443543466029
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 You cna reach me through X twitter that's in my profile
 
 <!---
 SteeveSticks/SteeveSticks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
